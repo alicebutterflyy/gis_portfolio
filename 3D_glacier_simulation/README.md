@@ -4,9 +4,11 @@ Over the course of my internship, I worked along a project led by the Bureau de 
 
 Following the photo-interpretation of DEMS over my specific sector, I managed to get vector shapes of many glacial moraines, as show the map below.
 
+[![Photo-interpretation of glacial deposits](images/photointerpretation.png)](images/photointerpretation.png)
+
 The aim of my internship was then to translate a Matlab program (Harper & Humphrey, 2003) into a Python application, which would help me simulate ice flow and correlate the different deposits together. The program which I worked on allows the user to modify climatic parameters (temperature and rain) and then obtain the 3D characteristics of the glacier resulting of those climatic conditions. After translating the program in Python, I also made it available as a ArcGIS toolbox available at [this address](https://github.com/alicelamure/GlacierSimulation). I added some extra parameters, using the rasterio library, such as automatic georeferencing, generation of surface **and** thickness rasters, etc. Below are two examples of the maps produced using this program.
 
-
+[![Simulated glaciers](images/glacier_simulation.png)](images/glacier_simulation.png)
 
 Those maps were then used to highlight the existence of halts during the glaciers' retreat. The thickness rasters also allowed for the reconstruction of the Equilibrium Line Altitude (ELA) of each retreating glacier using an ArcGIS toolbox developed by Pellitero _et al._ (2015).
 
@@ -14,6 +16,7 @@ Those maps were then used to highlight the existence of halts during the glacier
 BRGM, Institut National Géographique, Taillefer (1966)
 
 ## Cited literature
-- Harper, J.T., et Humphrey, N.F.,« High altitude Himalayan climate inferred from glacial ice flux », Geophysical research letters, 30-14, 2003.
+- Harper, J.T., et Humphrey, N.F.,« High altitude Himalayan climate inferred from glacial ice flux », _Geophysical research letters_, 30-14, 2003.
 - Monod, B., Gandolfi, J.M., Saplairoles, M., « Amélioration de la connaissance géologique des formations fluvioglaciaires dans les Pyrénées », Programme POTAPYR, BRGM, 2018.
-- Pellitero, R., Rea B.R., Spagnolo, M., Bakke, J., Hughes, P., Ivy-Ochs, S., Lukas, S., Ribolini, A., « A GIS tool for automatic calculation of glacier equilibrium-line altitudes », Computers & Geosciences, 82, 2015.
+- Pellitero, R., Rea B.R., Spagnolo, M., Bakke, J., Hughes, P., Ivy-Ochs, S., Lukas, S., Ribolini, A., « A GIS tool for automatic calculation of glacier equilibrium-line altitudes », _Computers & Geosciences_, 82, 2015.
+- Taillefer, F., « La carte de Morphologie glaciaire des Pyrénées au 1/50 000. Feuilles de Bagnères-de-Luchon », _Pireneos_, 81-82, 1966.
