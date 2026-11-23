@@ -18,12 +18,12 @@ Even though I described each project in English, the layout of many maps is stil
 </div>
 
 <div>
-<h3> 2. Ecological connectivity and wildlife corridors: potential ecological impacts of the A45 highway between Lyon and Saint-Étienne </h3>
+<a href="ecological_connectivity_highway/"><h3> 2. Ecological connectivity and wildlife corridors: potential ecological impacts of the A45 highway between Lyon and Saint-Étienne </h3></a>
 <a href="ecological_connectivity_highway/"><img src="ecological_connectivity_highway/images/mobilities_graphab.png" alt="Red squirrel mobilities" style="width:100%; height:200px; object-fit:cover;"></a>
 </div>
 
 <div>
-<h3> 3. Beech distribution in the Pyrenees: multicriteria analysis and weighted score matrix </h3>
+<a href="multicriteria_analysis_beech_vulnerability/"><h3> 3. Beech distribution in the Pyrenees: multicriteria analysis and weighted score matrix </h3></a>
 <a href="multicriteria_analysis_beech_vulnerability/"><img src="multicriteria_analysis_beech_vulnerability/images/proximity_criteria.png" alt="Proximity criteria maps" style="width:100%; height:200px; object-fit:cover;"></a>
 </div>
 
