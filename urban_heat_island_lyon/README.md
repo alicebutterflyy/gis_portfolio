@@ -11,8 +11,9 @@ The bivariate maps shown below indicate a potential correlation between the dens
 
 From raster images of the temperature (resolution of 1 km), I created three different classes of heat intensity, using the raster calculator. To evaluate the density of artificial lands, using the Corine Land Cover land use vectors, I calculated the surface ratio of artificial lands per 1x1km pixel (according to the resolution of the raster images). In the same manner, those density were then translated into three different classes. Those classes were then visualized together in order to create the two bivariate maps.
 
-Data : Institut Géographique National, Corine Land Cover, NOA-AVHRR imagery
+## Data
+Institut Géographique National, Corine Land Cover, NOA-AVHRR imagery
 
-## Cited literature :
+## Cited literature
 - Li, Y., Schubert, S., Kropp, J.P. et al., “On the influence of density and morphology on the Urban Heat Island intensity”, Nat Commun, 11, 2020.
 - P.J.C. Schrijvers, H.J.J. Jonker, S. Kenjereš, S.R. de Roode, “Breakdown of the night time urban heat island energy budget”, Building and Environment, 83, 2015
