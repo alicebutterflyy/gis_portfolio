@@ -1,10 +1,11 @@
 In order to understand the urban heat island phenomenon In the Greater Lyon over the course of the major 2003 heat wave, bivariate maps allow us to link spatially two quantitative variables : here, we look at the correlation between surface temperature (day and night) and the density of artificial lands.
 
-surface_temperature_maps.png
+![Surface temperature maps](/surface_temperature_maps.png)
 
 The bivariate maps shown below indicate a potential correlation between the density of artificial lands and the nightly heat, possibly due to heat trapping. Those observations are supported by scientific papers studying the link between night time urban heat and city density (Li et al., 2020; Schrijvers et al., 2015).
 
-day_time_bivariate_map night_time_bivariate_map.png
+![Daytime bivariate map](/day_time_bivariate_map.png)
+![Nighttime bivariate map](/night_time_bivariate_map.png)
 
 From raster images of the temperature (resolution of 1 km), I created three different classes of heat intensity, using the raster calculator. To evaluate the density of artificial lands, using the Corine Land Cover land use vectors, I calculated the surface ratio of artificial lands per 1x1km pixel (according to the resolution of the raster images). In the same manner, those density were then translated into three different classes. Those classes were then visualized together in order to create the two bivariate maps.
 
