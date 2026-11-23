@@ -13,7 +13,6 @@ From raster images of the temperature (resolution of 1 km), I created three diff
 
 Data : Institut Géographique National, Corine Land Cover, NOA-AVHRR imagery
 
-Cited literature :
-
-Li, Y., Schubert, S., Kropp, J.P. et al., “On the influence of density and morphology on the Urban Heat Island intensity”, Nat Commun, 11, 2020.
-P.J.C. Schrijvers, H.J.J. Jonker, S. Kenjereš, S.R. de Roode, “Breakdown of the night time urban heat island energy budget”, Building and Environment, 83, 2015
+## Cited literature :
+- Li, Y., Schubert, S., Kropp, J.P. et al., “On the influence of density and morphology on the Urban Heat Island intensity”, Nat Commun, 11, 2020.
+- P.J.C. Schrijvers, H.J.J. Jonker, S. Kenjereš, S.R. de Roode, “Breakdown of the night time urban heat island energy budget”, Building and Environment, 83, 2015
