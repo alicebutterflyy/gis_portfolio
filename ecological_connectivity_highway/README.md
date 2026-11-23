@@ -13,7 +13,8 @@ With the data transferred and analyzed on QGIS, it is possible to visualize, acc
 
 The existence of a highway would disturb the ecological connectivity of this specific species, as show the maps. The study has then given place to statistical analyses, evaluating the loss of connectivity at -1,79%. For other species, this number can be higher : -7,41% for the viviparous lizard, for instance. Each of the present species may be simulated likewise, and then the maps interpolated. Such studies can help decision making by setting geographical criteria for minimal ecological impact.
 
-Data : Bourgeois (2015), Institut Géographique National
+## Data
+Bourgeois (2015), Institut Géographique National
 
-## Cited literature :
+## Cited literature
 - Bourgeois, M., "Impacts écologiques des formes d'urbanisation : modélisations urbaines et paysagères. Géographie", Université de Franche-Comté, 2015.
