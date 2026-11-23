@@ -1,4 +1,4 @@
-On this page, a portfolio of some GIS projects achieved over the last two years, over the course of my Masters and my internship.
+On this page, a portfolio of some GIS projects recently achieved, over the course of my Masters and my internship.
 
 
 ## Selected projects
