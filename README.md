@@ -15,5 +15,5 @@ Even though I described each project in English, the layout of many maps is stil
 [![Red squirrel mobilities](ecological_connectivity_highway/images/mobilities_graphab.png)](ecological_connectivity_highway/)
 
 ### 3. Beech distribution in the Pyrenees : multicriteria analysis and weighted score matrix
-[![Proximity criteria maps](multicriteria_analysis_beech_vulnerability/proximity_criteria.png)](multicriteria_analysis_beech_vulnerability/)
+[![Proximity criteria maps](multicriteria_analysis_beech_vulnerability/images/proximity_criteria.png)](multicriteria_analysis_beech_vulnerability/)
 
