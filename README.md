@@ -12,7 +12,7 @@ Even though I described each project in English, the layout of many maps is stil
 [![Nighttime bivariate map](urban_heat_island_lyon/images/night_time_bivariate_map.png)](urban_heat_island_lyon/)
 
 ### 2. Ecological connectivity and wildlife corridors : potential ecological impacts of the A45 highway between Lyon and Saint-Étienne
-[![Red squirrel mobilities](ecological_connectivity_highway/images/mobilities_graphab)](ecological_connectivity_highway)
+[![Red squirrel mobilities](ecological_connectivity_highway/images/mobilities_graphab.png)](ecological_connectivity_highway)
 
 
 
