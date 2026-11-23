@@ -18,7 +18,7 @@ Even though I described each project in English, the layout of many maps is stil
 </div>
 
 <div>
-<a href="ecological_connectivity_highway/"><h3> 2. Ecological connectivity and wildlife corridors: potential ecological impacts of the A45 highway between Lyon and Saint-Étienne </h3></a>
+<a href="ecological_connectivity_highway/"><h3> 2. Ecological connectivity and wildlife corridors: the A45 highway between Lyon and Saint-Étienne </h3></a>
 <a href="ecological_connectivity_highway/"><img src="ecological_connectivity_highway/images/mobilities_graphab.png" alt="Red squirrel mobilities" style="width:100%; height:200px; object-fit:cover;"></a>
 </div>
 
