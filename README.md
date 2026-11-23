@@ -28,7 +28,7 @@ Even though I described each project in English, the layout of many maps is stil
 </div>
 
 <div>
-<a href="3D_glacier_simulation/"><h3> 3. Beech distribution in the Pyrenees: multicriteria analysis and weighted score matrix </h3></a>
+<a href="3D_glacier_simulation/"><h3> 4. 3-dimensional glacier flow simulation (Matlab, Python, QGIS) </h3></a>
 <a href="3D_glacier_simulation/"><img src="3D_glacier_simulation/images/glacier_simulation.png" alt="3D glacier simulations" style="width:100%; height:200px; object-fit:cover;"></a>
 </div>
 
