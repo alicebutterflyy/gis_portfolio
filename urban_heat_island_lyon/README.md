@@ -1,4 +1,4 @@
-#Spatial analysis of urban heat islands : a case study of the Greater Lyon
+# Spatial analysis of urban heat islands : a case study of the Greater Lyon
 
 In order to understand the urban heat island phenomenon In the Greater Lyon over the course of the major 2003 heat wave, bivariate maps allow us to link spatially two quantitative variables : here, we look at the correlation between surface temperature (day and night) and the density of artificial lands.
 
